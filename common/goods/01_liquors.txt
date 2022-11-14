@@ -1,0 +1,155 @@
+Chinese_spirits = { ##白酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 30
+	category = luxury
+	
+	obsession_chance = 1.5
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+beer = { ##啤酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 25
+	category = luxury
+	
+	obsession_chance = 1.25
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.6
+}
+
+wine = { ##葡萄酒
+	texture = "gfx/interface/icons/goods_icons/wine.dds"
+	cost = 35
+	category = luxury
+	
+	obsession_chance = 1.5
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+whisky = { ##威士忌
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 35
+	category = luxury
+	
+	obsession_chance = 2
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.6
+}
+
+brandy = { ##白兰地
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 40
+	category = luxury
+	
+	obsession_chance = 1.5
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+vodka = { ##伏特加
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 25
+	category = luxury
+	
+	obsession_chance = 1.75
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+rum = { ##朗姆酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 30
+	category = luxury
+	
+	obsession_chance = 1.5
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+rice_wine = { ##米酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 20
+	category = luxury
+	
+	obsession_chance = 0.7
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.6
+}
+
+geneva = { ##杜松子酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 30
+	category = luxury
+	
+	obsession_chance = 1.75
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+tequila = { ##龙舌兰酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 30
+	category = luxury
+	
+	obsession_chance = 1.5
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+cocktail = { ##鸡尾酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 25
+	category = luxury
+	
+	obsession_chance = 1.25
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+sake = { ##清酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 25
+	category = luxury
+	
+	obsession_chance = 1.25
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
+
+fruit_wine = { ##果酒
+	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	cost = 20
+	category = luxury
+	
+	obsession_chance = 0.75
+	prestige_factor = 4
+	
+	traded_quantity = 15
+	convoy_cost_multiplier = 0.7
+}
