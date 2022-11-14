@@ -1,4 +1,4 @@
-Chinese_spirits = { ##白酒
+chinese_spirits = { ##白酒
 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
 	cost = 30
 	category = luxury
