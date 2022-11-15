@@ -1,5 +1,5 @@
 building_chinese_spirits_cellar = {
-	building_group = bg_opium_plantations
+	building_group = bg_chinese_spirits_cellar
 	texture = "gfx/interface/icons/building_icons/opium_plantation.dds"
 	required_construction = construction_cost_low
 
@@ -9,18 +9,10 @@ building_chinese_spirits_cellar = {
 
 	city_type = farm
 	levels_per_mesh = 5
-	
+
 	production_method_groups = {
 		pmg_base_building_opium_plantation
 		pmg_train_automation_building_opium_plantation
 		pmg_ownership_land_building_opium_plantation
-	}
-	
-	can_build = {
-		error_check = {
-			severity = fail
-			state =
-			owner = { country_has_primary_culture = han } }
-		}
 	}
 }

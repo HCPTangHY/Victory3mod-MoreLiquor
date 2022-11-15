@@ -1,0 +1,7 @@
+bg_chinese_spirits_cellar = {
+	parent_group = bg_agriculture
+	
+	default_building = building_chinese_spirits_cellar
+	
+	cash_reserves_max = 25000
+}
