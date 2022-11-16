@@ -1,4 +1,4 @@
-Chinese_spirits = { ##白酒
+chinese_spirits = { ##白酒
 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
 	cost = 30
 	category = luxury
@@ -13,9 +13,9 @@ Chinese_spirits = { ##白酒
 beer = { ##啤酒
 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
 	cost = 25
-	category = luxury
+	category = staple
 	
-	obsession_chance = 1.25
+	obsession_chance = 1.2
 	prestige_factor = 4
 	
 	traded_quantity = 15
@@ -85,7 +85,7 @@ rum = { ##朗姆酒
 rice_wine = { ##米酒
 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
 	cost = 20
-	category = luxury
+	category = staple
 	
 	obsession_chance = 0.7
 	prestige_factor = 4
