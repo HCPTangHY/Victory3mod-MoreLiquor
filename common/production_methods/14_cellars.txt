@@ -4,10 +4,10 @@ default_building_chinese_spirits_cellar = {
 			building_input_grain_add = 45
 			building_output_chinese_spirits_add = 15
 		}
-    }
-    levle_scaled = {
-        building_employment_laborers_add = 4000
-        building_employment_groceries_add = 100
+        levle_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_groceries_add = 100
+        }
     }
 }
 glass_bottle_building_chinese_spirits_cellar = {
@@ -17,9 +17,9 @@ glass_bottle_building_chinese_spirits_cellar = {
             building_input_glass_add = 15
 			building_output_chinese_spirits_add = 25
 		}
-    }
-    levle_scaled = {
-        building_employment_laborers_add = 4000
-        building_employment_groceries_add = 100
+        levle_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_groceries_add = 100
+        }
     }
 }

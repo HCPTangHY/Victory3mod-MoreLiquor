@@ -1,0 +1,4 @@
+building_output_chinese_spirits_add = {
+	good = no
+	percent = no	
+}
