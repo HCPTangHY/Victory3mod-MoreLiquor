@@ -1,0 +1,5 @@
+﻿l_simp_chinese:
+ building_chinese_spirits_cellar:0 "白酒酒窖"
+ building_chinese_spirits_cellar_lens_option:0 "扩建$building_chinese_spirits_cellar$"
+##
+ bg_chinese_spirits_cellar:0 "白酒酒窖"
