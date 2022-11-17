@@ -28,7 +28,7 @@ glass_bottle_building_chinese_spirits_cellar = {
         }
     }
 }
-###
+##sake##
 default_building_sake_cellar = {
     texture = "gfx/interface/icons/production_method_icons/ceramics.dds"
     building_modifiers = {
@@ -55,6 +55,59 @@ glass_bottle_building_sake_cellar = {
 		}
         level_scaled = {
             building_employment_laborers_add = 2000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+##beer##
+default_building_beer_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/ceramics.dds"
+    building_modifiers = {
+        workforce_scaled = {
+			building_input_grain_add = 35
+			building_output_beer_add = 20
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+black_beer_building_beer_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/.dds"
+    building_modifiers = {
+        workforce_scaled = {
+			building_input_grain_add = 50
+			building_output_beer_add = 20
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+pm_bucket_beer = {
+    texture = "gfx/interface/icons/production_method_icons/.dds"
+    building_modifiers = {
+        workforce_scaled = {
+			building_input_wood_add = 20
+			building_output_beer_add = 10
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+pm_glass_bottle_beer = {
+    texture = "gfx/interface/icons/production_method_icons/.dds"
+    building_modifiers = {
+        workforce_scaled = {
+			building_input_glass_add = 20
+			building_output_beer_add = 20
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
             building_employment_shopkeepers_add = 100
         }
     }

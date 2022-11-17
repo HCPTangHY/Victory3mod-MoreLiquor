@@ -45,3 +45,32 @@ pmg_ownership_land_building_sake_cellar = {
 		pm_worker_cooperative_plantation
 	}
 }
+#####
+pmg_base_building_beer_cellar = {
+	production_methods = {
+		default_building_beer_cellar
+		black_beer_building_beer_cellar
+	}
+}
+pmg_bottle_building_beer_cellar = {
+	production_methods = {
+		pm_bucket_beer
+		pm_glass_bottle_beer
+	}
+}
+pmg_train_automation_building_beer_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_beer_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_government_run
+		pm_worker_cooperative_plantation
+	}
+}

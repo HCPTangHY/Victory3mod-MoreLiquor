@@ -6,3 +6,7 @@ building_output_sake_add = {
 	good = no
 	percent = no	
 }
+building_output_beer_add = {
+	good = no
+	percent = no	
+}

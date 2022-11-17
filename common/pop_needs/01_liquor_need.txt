@@ -61,4 +61,10 @@ popneed_luxury_drinks = {
 		max_weight = 3.0 # Maxes out at 60% of supply share
 		min_weight = 0.0
 	}
+	entry = {
+		goods = beer
+		weight = 1.5
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
 }
