@@ -1,5 +1,6 @@
 ﻿l_simp_chinese:
  chinese_spirits:0 "白酒"
+ chinese_spirits_desc:0 "白酒是一种白酒"
  building_chinese_spirits_cellar:0 "白酒酒窖"
  building_chinese_spirits_cellar_lens_option:0 "扩建$building_chinese_spirits_cellar$"
 ##

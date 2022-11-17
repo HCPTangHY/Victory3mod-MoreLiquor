@@ -1,0 +1,58 @@
+popneed_intoxicants = {
+	default = liquor
+	entry = {
+		goods = liquor
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+	entry = {
+		goods = chinese_spirits
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+	##
+	entry = {
+		goods = tobacco
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+	entry = {
+		goods = opium
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+}
+
+popneed_luxury_drinks = {
+	default = tea
+
+	entry = {
+		goods = tea
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+	entry = {
+		goods = coffee
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+
+	entry = {
+		goods = wine
+		weight = 1
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+	entry = {
+		goods = chinese_spirits
+		weight = 0.9
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+}
