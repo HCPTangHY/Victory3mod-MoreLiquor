@@ -2,3 +2,7 @@ building_output_chinese_spirits_add = {
 	good = no
 	percent = no	
 }
+building_output_sake_add = {
+	good = no
+	percent = no	
+}

@@ -11,3 +11,16 @@
  glass_bottle_building_chinese_spirits_cellar:0 "玻璃瓶罐装"
  pmg_train_automation_building_chinese_spirits_cellar:0 "列车自动化"
  pmg_ownership_land_building_chinese_spirits_cellar:0 "所有制"
+###########
+ sake:0 "日本清酒"
+ sake_desc:0 "日本清酒是一种白酒"
+ building_sake_cellar:0 "清酒酒窖"
+ building_sake_cellar_lens_option:0 "扩建$building_sake_cellar$"
+##
+ bg_sake_cellar:0 "清酒酒窖"
+##pm##
+ pmg_base_building_sake_cellar:0 "酿造"
+ default_building_sake_cellar:0 "基础酿造"
+ glass_bottle_building_sake_cellar:0 "玻璃瓶罐装"
+ pmg_train_automation_building_sake_cellar:0 "列车自动化"
+ pmg_ownership_land_building_sake_cellar:0 "所有制"
