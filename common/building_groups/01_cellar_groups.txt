@@ -12,3 +12,10 @@ bg_sake_cellar = {
 	
 	cash_reserves_max = 25000
 }
+bg_wine_cellar = {
+	parent_group = bg_agriculture
+	
+	default_building = building_wine_cellar
+	
+	cash_reserves_max = 25000
+}

@@ -54,3 +54,21 @@ building_beer_cellar = {
 	required_construction = construction_cost_high
 	
 }
+building_wine_cellar = {
+	building_group = bg_wine_cellar
+	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	required_construction = construction_cost_low
+
+	unlocking_technologies = {
+		enclosure
+	}
+
+	city_type = farm
+	levels_per_mesh = 5
+
+	production_method_groups = {
+		pmg_base_building_wine_cellar
+		pmg_train_automation_building_wine_cellar
+		pmg_ownership_land_building_wine_cellar
+	}
+}
