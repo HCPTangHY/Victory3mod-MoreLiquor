@@ -4,7 +4,7 @@
  building_chinese_spirits_cellar:0 "白酒酒窖"
  building_chinese_spirits_cellar_lens_option:0 "扩建$building_chinese_spirits_cellar$"
 ##
- bg_chinese_spirits_cellar:0 "白酒酒窖组"
+ bg_chinese_spirits_cellar:0 "白酒酒窖"
 ##pm##
  pmg_base_building_chinese_spirits_cellar:0 "酿造"
  default_building_chinese_spirits_cellar:0 "基础酿造"
