@@ -72,3 +72,39 @@ building_wine_cellar = {
 		pmg_ownership_land_building_wine_cellar
 	}
 }
+building_whisky_cellar = {
+	building_group = bg_whisky_cellar
+	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	required_construction = construction_cost_low
+
+	unlocking_technologies = {
+		enclosure
+	}
+
+	city_type = farm
+	levels_per_mesh = 5
+
+	production_method_groups = {
+		pmg_base_building_whisky_cellar
+		pmg_train_automation_building_whisky_cellar
+		pmg_ownership_land_building_whisky_cellar
+	}
+}
+building_vodka_cellar = {
+	building_group = bg_vodka_cellar
+	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	required_construction = construction_cost_low
+
+	unlocking_technologies = {
+		enclosure
+	}
+
+	city_type = farm
+	levels_per_mesh = 5
+
+	production_method_groups = {
+		pmg_base_building_vodka_cellar
+		pmg_train_automation_building_vodka_cellar
+		pmg_ownership_land_building_vodka_cellar
+	}
+}

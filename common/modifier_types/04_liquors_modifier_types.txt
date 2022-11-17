@@ -14,3 +14,11 @@ building_output_wine_add = {
 	good = no
 	percent = no	
 }
+building_output_whisky_add = {
+	good = no
+	percent = no	
+}
+building_output_vodka_add = {
+	good = no
+	percent = no	
+}

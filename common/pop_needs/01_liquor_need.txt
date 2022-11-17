@@ -12,6 +12,12 @@ popneed_intoxicants = {
 		max_weight = 3.0 # Maxes out at 60% of supply share
 		min_weight = 0.0
 	}
+	entry = {
+		goods = vodka
+		weight = 2
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
 	##
 	entry = {
 		goods = tobacco
@@ -64,6 +70,12 @@ popneed_luxury_drinks = {
 	entry = {
 		goods = beer
 		weight = 1.5
+		max_weight = 3.0 # Maxes out at 60% of supply share
+		min_weight = 0.0
+	}
+	entry = {
+		goods = whisky
+		weight = 0.8
 		max_weight = 3.0 # Maxes out at 60% of supply share
 		min_weight = 0.0
 	}

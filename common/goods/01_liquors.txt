@@ -58,18 +58,6 @@ whisky = { ##威士忌
 	convoy_cost_multiplier = 0.6
 }
 
-brandy = { ##白兰地
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
-	cost = 40
-	category = luxury
-	
-	obsession_chance = 1.5
-	prestige_factor = 4
-	
-	traded_quantity = 15
-	convoy_cost_multiplier = 0.7
-}
-
 vodka = { ##伏特加
 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
 	cost = 25

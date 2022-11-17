@@ -144,3 +144,65 @@ glass_bottle_building_wine_cellar = {
         }
     }
 }
+##whisky##
+default_building_whisky_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/ceramics.dds"
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_grain_add = 30
+			building_output_whisky_add = 15
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+glass_bottle_building_whisky_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/automated_bottle_blowers.dds"
+    unlocking_technologies = {
+		automatic_bottle_blowers
+	}
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_grain_add = 30
+            building_input_glass_add = 10
+			building_output_whisky_add = 20
+		}
+        level_scaled = {
+            building_employment_laborers_add = 2000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+##vodka##
+default_building_vodka_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/ceramics.dds"
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_grain_add = 25
+			building_output_vodka_add = 10
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+glass_bottle_building_vodka_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/automated_bottle_blowers.dds"
+    unlocking_technologies = {
+		automatic_bottle_blowers
+	}
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_grain_add = 25
+            building_input_glass_add = 10
+			building_output_vodka_add = 15
+		}
+        level_scaled = {
+            building_employment_laborers_add = 2000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}

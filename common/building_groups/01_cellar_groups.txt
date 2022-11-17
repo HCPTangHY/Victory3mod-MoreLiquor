@@ -19,3 +19,17 @@ bg_wine_cellar = {
 	
 	cash_reserves_max = 25000
 }
+bg_whisky_cellar = {
+	parent_group = bg_agriculture
+	
+	default_building = building_whisky_cellar
+	
+	cash_reserves_max = 25000
+}
+bg_vodka_cellar = {
+	parent_group = bg_agriculture
+	
+	default_building = building_vodka_cellar
+	
+	cash_reserves_max = 25000
+}
