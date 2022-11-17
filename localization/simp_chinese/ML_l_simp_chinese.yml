@@ -79,3 +79,29 @@
  glass_bottle_building_vodka_cellar:0 "玻璃瓶罐装"
  pmg_train_automation_building_vodka_cellar:0 "列车自动化"
  pmg_ownership_land_building_vodka_cellar:0 "所有制"
+###########
+ rum:0 "朗姆酒"
+ rum_desc:0 "朗姆酒是一种朗姆酒"
+ building_rum_cellar:0 "朗姆酒窖"
+ building_rum_cellar_lens_option:0 "扩建$building_rum_cellar$"
+##
+ bg_rum_cellar:0 "朗姆酒窖"
+##pm##
+ pmg_base_building_rum_cellar:0 "酿造"
+ default_building_rum_cellar:0 "基础酿造"
+ glass_bottle_building_rum_cellar:0 "玻璃瓶罐装"
+ pmg_train_automation_building_rum_cellar:0 "列车自动化"
+ pmg_ownership_land_building_rum_cellar:0 "所有制"
+###########
+ rice_wine:0 "米酒"
+ rice_wine_desc:0 "米酒是一种米酒"
+ building_rice_wine_cellar:0 "米酒酒窖"
+ building_rice_wine_cellar_lens_option:0 "扩建$building_rice_wine_cellar$"
+##
+ bg_rice_wine_cellar:0 "米酒酒窖"
+##pm##
+ pmg_base_building_rice_wine_cellar:0 "酿造"
+ default_building_rice_wine_cellar:0 "基础酿造"
+ glass_bottle_building_rice_wine_cellar:0 "玻璃瓶罐装"
+ pmg_train_automation_building_rice_wine_cellar:0 "列车自动化"
+ pmg_ownership_land_building_rice_wine_cellar:0 "所有制"

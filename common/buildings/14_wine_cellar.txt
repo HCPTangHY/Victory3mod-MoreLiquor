@@ -108,3 +108,39 @@ building_vodka_cellar = {
 		pmg_ownership_land_building_vodka_cellar
 	}
 }
+building_rum_cellar = {
+	building_group = bg_rum_cellar
+	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	required_construction = construction_cost_low
+
+	unlocking_technologies = {
+		enclosure
+	}
+
+	city_type = farm
+	levels_per_mesh = 5
+
+	production_method_groups = {
+		pmg_base_building_rum_cellar
+		pmg_train_automation_building_rum_cellar
+		pmg_ownership_land_building_rum_cellar
+	}
+}
+building_rice_wine_cellar = {
+	building_group = bg_rice_wine_cellar
+	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	required_construction = construction_cost_low
+
+	unlocking_technologies = {
+		enclosure
+	}
+
+	city_type = farm
+	levels_per_mesh = 5
+
+	production_method_groups = {
+		pmg_base_building_rice_wine_cellar
+		pmg_train_automation_building_rice_wine_cellar
+		pmg_ownership_land_building_rice_wine_cellar
+	}
+}

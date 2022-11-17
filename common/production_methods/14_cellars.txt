@@ -206,3 +206,65 @@ glass_bottle_building_vodka_cellar = {
         }
     }
 }
+##rum##
+default_building_rum_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/ceramics.dds"
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_sugar_add = 30
+			building_output_rum_add = 15
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+glass_bottle_building_rum_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/automated_bottle_blowers.dds"
+    unlocking_technologies = {
+		automatic_bottle_blowers
+	}
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_sugar_add = 30
+            building_input_glass_add = 10
+			building_output_rum_add = 20
+		}
+        level_scaled = {
+            building_employment_laborers_add = 2000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+##rice_wine##
+default_building_rice_wine_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/ceramics.dds"
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_grain_add = 20
+			building_output_rice_wine_add = 20
+		}
+        level_scaled = {
+            building_employment_laborers_add = 4000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}
+glass_bottle_building_rice_wine_cellar = {
+    texture = "gfx/interface/icons/production_method_icons/automated_bottle_blowers.dds"
+    unlocking_technologies = {
+		automatic_bottle_blowers
+	}
+    building_modifiers = {
+        workforce_scaled = {
+            building_input_grain_add = 20
+            building_input_glass_add = 10
+			building_output_rice_wine_add = 30
+		}
+        level_scaled = {
+            building_employment_laborers_add = 2000
+            building_employment_shopkeepers_add = 100
+        }
+    }
+}

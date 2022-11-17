@@ -146,3 +146,51 @@ pmg_ownership_land_building_vodka_cellar = {
 		pm_worker_cooperative_plantation
 	}
 }
+#####
+pmg_base_building_rum_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_rum_cellar
+		glass_bottle_building_rum_cellar
+	}
+}
+pmg_train_automation_building_rum_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_rum_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_government_run
+		pm_worker_cooperative_plantation
+	}
+}
+#####
+pmg_base_building_rice_wine_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_base.dds"
+	production_methods = {
+		default_building_rice_wine_cellar
+		glass_bottle_building_rice_wine_cellar
+	}
+}
+pmg_train_automation_building_rice_wine_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_automation.dds"
+	production_methods = {
+		pm_road_carts
+		pm_steam_rail_transport
+	}
+}
+pmg_ownership_land_building_rice_wine_cellar = {
+	texture = "gfx/interface/icons/generic_icons/mixed_icon_ownership.dds"
+	production_methods = {
+		pm_privately_owned
+		pm_publicly_traded
+		pm_government_run
+		pm_worker_cooperative_plantation
+	}
+}
