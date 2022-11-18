@@ -1,5 +1,5 @@
 chinese_spirits = { ##白酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/chinese_spirits.dds"
 	cost = 30
 	category = luxury
 	
@@ -11,7 +11,7 @@ chinese_spirits = { ##白酒
 }
 
 sake = { ##清酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/sake.dds"
 	cost = 25
 	category = luxury
 	
@@ -23,7 +23,7 @@ sake = { ##清酒
 }
 
 beer = { ##啤酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/beer.dds"
 	cost = 25
 	category = staple
 	
@@ -47,7 +47,7 @@ wine = { ##葡萄酒
 }
 
 whisky = { ##威士忌
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/whisky.dds"
 	cost = 35
 	category = luxury
 	
@@ -59,7 +59,7 @@ whisky = { ##威士忌
 }
 
 vodka = { ##伏特加
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/vodka.dds"
 	cost = 25
 	category = luxury
 	
@@ -71,7 +71,7 @@ vodka = { ##伏特加
 }
 
 rum = { ##朗姆酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/rum.dds"
 	cost = 30
 	category = luxury
 	
@@ -83,7 +83,7 @@ rum = { ##朗姆酒
 }
 
 rice_wine = { ##米酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/rice_wine.dds"
 	cost = 20
 	category = staple
 	
@@ -95,7 +95,7 @@ rice_wine = { ##米酒
 }
 
 geneva = { ##杜松子酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/geneva.dds"
 	cost = 30
 	category = luxury
 	
@@ -107,7 +107,7 @@ geneva = { ##杜松子酒
 }
 
 tequila = { ##龙舌兰酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/tequila.dds"
 	cost = 30
 	category = luxury
 	
@@ -119,7 +119,7 @@ tequila = { ##龙舌兰酒
 }
 
 fruit_wine = { ##果酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
+	texture = "gfx/interface/icons/goods_icons/fruit_wine.dds"
 	cost = 20
 	category = luxury
 	
