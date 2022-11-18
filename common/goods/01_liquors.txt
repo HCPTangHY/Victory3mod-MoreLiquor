@@ -118,18 +118,6 @@ tequila = { ##龙舌兰酒
 	convoy_cost_multiplier = 0.7
 }
 
-cocktail = { ##鸡尾酒
-	texture = "gfx/interface/icons/goods_icons/liquor.dds"
-	cost = 25
-	category = luxury
-	
-	obsession_chance = 1.25
-	prestige_factor = 4
-	
-	traded_quantity = 15
-	convoy_cost_multiplier = 0.7
-}
-
 fruit_wine = { ##果酒
 	texture = "gfx/interface/icons/goods_icons/liquor.dds"
 	cost = 20

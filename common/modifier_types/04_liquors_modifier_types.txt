@@ -38,3 +38,7 @@ building_output_tequila_add = {
 	good = no
 	percent = no	
 }
+building_output_fruit_wine_add = {
+	good = no
+	percent = no	
+}

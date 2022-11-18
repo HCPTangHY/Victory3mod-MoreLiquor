@@ -48,7 +48,7 @@ building_beer_cellar = {
 		pmg_base_building_beer_cellar
 		pmg_bottle_building_beer_cellar
 		pmg_train_automation_building_beer_cellar
-		pmg_ownership_capital_building_beer_cellar
+		pmg_ownership_building_beer_cellar
 	}
 
 	required_construction = construction_cost_high
@@ -179,4 +179,23 @@ building_tequila_cellar = {
 		pmg_train_automation_building_tequila_cellar
 		pmg_ownership_land_building_tequila_cellar
 	}
+}
+building_fruit_wine_cellar = {
+	building_group = bg_light_industry
+	texture = "gfx/interface/icons/building_icons/food_industry.dds"
+	city_type = city
+	levels_per_mesh = 5
+	
+	unlocking_technologies = {
+		manufacturies
+	}
+
+	production_method_groups = {
+		pmg_base_building_fruit_wine_cellar
+		pmg_train_automation_building_fruit_wine_cellar
+		pmg_ownership_building_fruit_wine_cellar
+	}
+
+	required_construction = construction_cost_high
+	
 }
