@@ -1,6 +1,6 @@
 building_chinese_spirits_cellar = {
 	building_group = bg_chinese_spirits_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/chinese_spirits_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -18,7 +18,7 @@ building_chinese_spirits_cellar = {
 }
 building_sake_cellar = {
 	building_group = bg_sake_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/sake_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -36,7 +36,7 @@ building_sake_cellar = {
 }
 building_beer_cellar = {
 	building_group = bg_light_industry
-	texture = "gfx/interface/icons/building_icons/food_industry.dds"
+	texture = "gfx/interface/icons/building_icons/beer_cellar.dds"
 	city_type = city
 	levels_per_mesh = 5
 	
@@ -56,7 +56,7 @@ building_beer_cellar = {
 }
 building_wine_cellar = {
 	building_group = bg_wine_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/wine_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -74,7 +74,7 @@ building_wine_cellar = {
 }
 building_whisky_cellar = {
 	building_group = bg_whisky_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/whisky_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -92,7 +92,7 @@ building_whisky_cellar = {
 }
 building_vodka_cellar = {
 	building_group = bg_vodka_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/vodka_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -110,7 +110,7 @@ building_vodka_cellar = {
 }
 building_rum_cellar = {
 	building_group = bg_rum_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/rum_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -128,7 +128,7 @@ building_rum_cellar = {
 }
 building_rice_wine_cellar = {
 	building_group = bg_rice_wine_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/rice_wine_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -146,7 +146,7 @@ building_rice_wine_cellar = {
 }
 building_geneva_cellar = {
 	building_group = bg_geneva_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/geneva_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -164,7 +164,7 @@ building_geneva_cellar = {
 }
 building_tequila_cellar = {
 	building_group = bg_tequila_cellar
-	texture = "gfx/interface/icons/building_icons/rice_farm.dds"
+	texture = "gfx/interface/icons/building_icons/tequila_cellar.dds"
 	required_construction = construction_cost_low
 
 	unlocking_technologies = {
@@ -182,7 +182,7 @@ building_tequila_cellar = {
 }
 building_fruit_wine_cellar = {
 	building_group = bg_light_industry
-	texture = "gfx/interface/icons/building_icons/food_industry.dds"
+	texture = "gfx/interface/icons/building_icons/fruit_wine_cellar.dds"
 	city_type = city
 	levels_per_mesh = 5
 	
@@ -193,7 +193,7 @@ building_fruit_wine_cellar = {
 	production_method_groups = {
 		pmg_base_building_fruit_wine_cellar
 		pmg_train_automation_building_fruit_wine_cellar
-		pmg_ownership_building_fruit_wine_cellar
+		pmg_ownership_land_building_fruit_wine_cellar
 	}
 
 	required_construction = construction_cost_high
