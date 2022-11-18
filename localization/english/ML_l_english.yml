@@ -1,0 +1,179 @@
+﻿l_simp_chinese:
+ chinese_spirits:0 "Chinese Spirits"
+ chinese_spirits_desc:0 "Chinese spirits is a kind of spirits"
+ building_chinese_spirits_cellar:0 "Chinese Spirits Cellar"
+ building_chinese_spirits_cellar_lens_option:0 "Build $building_chinese_spirits_cellar$"
+##
+ bg_chinese_spirits_cellar:0 "Chinese Spirits Cellar"
+##pm##
+ pmg_base_building_chinese_spirits_cellar:0 "Brewing method"
+ default_building_chinese_spirits_cellar:0 "Base Brewing"
+ glass_bottle_building_chinese_spirits_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_chinese_spirits_cellar:0 "Train automation"
+ pmg_ownership_land_building_chinese_spirits_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_chinese_spirits_add:0 "@chinese_spirits! Chinese spirits output Per Level"
+ modifier_building_output_chinese_spirits_add_desc:0 "The amount of @chinese_spirits! Chinese spirits produced by buildings"
+###########
+ sake:0 "Sake"
+ sake_desc:0 "Sake is a kind of Sake"
+ building_sake_cellar:0 "Sake Cellar"
+ building_sake_cellar_lens_option:0 "Build $building_sake_cellar$"
+##
+ bg_sake_cellar:0 "Sake Cellar"
+##pm##
+ pmg_base_building_sake_cellar:0 "Brewing method"
+ default_building_sake_cellar:0 "Base Brewing"
+ glass_bottle_building_sake_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_sake_cellar:0 "Train automation"
+ pmg_ownership_land_building_sake_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_sake_add:0 "@sake!Sake output Per Level"
+ modifier_building_output_sake_add_desc:0 "The amount of@sake! Sake produced by buildings"
+###########
+ beer:0 "Beer"
+ beer_desc:0 "Beer is a kind of Beer"
+ building_beer_cellar:0 "Beer Cellar"
+ building_beer_cellar_lens_option:0 "Build $building_beer_cellar$"
+##
+ bg_beer_cellar:0 "Beer Cellar"
+##pm##
+ pmg_base_building_beer_cellar:0 "Brewing method"
+ default_building_beer_cellar:0 "Beer"
+ black_beer_building_beer_cellar:0 "Black Beer"
+ pmg_bottle_building_beer_cellar:0 "Filling method"
+ pm_bucket_beer:0 "Barreled Beer"
+ pm_glass_bottle_beer:0 "Bottling Beer"
+ pmg_train_automation_building_beer_cellar:0 "Train automation"
+ pmg_ownership_land_building_beer_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_beer_add:0 "@beer!Beer output Per Level"
+ modifier_building_output_beer_add_desc:0 "The amount of@beer! Beer produced by buildings"
+###########
+ wine:0 "Wine"
+ wine_desc:0 "Wine is a kind of wine"
+ building_wine_cellar:0 "Wine Cellar"
+ building_wine_cellar_lens_option:0 "Build $building_wine_cellar$"
+##
+ bg_wine_cellar:0 "Wine Cellar"
+##pm##
+ pmg_base_building_wine_cellar:0 "Brewing method"
+ default_building_wine_cellar:0 "Base Brewing"
+ glass_bottle_building_wine_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_wine_cellar:0 "Train automation"
+ pmg_ownership_land_building_wine_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_wine_add:0 "@wine!Wine output Per Level"
+ modifier_building_output_wine_add_desc:0 "The amount of@wine! Wine produced by buildings"
+###########
+ whisky:0 "Whisky"
+ whisky_desc:0 "Whisky is a kind of Whisky"
+ building_whisky_cellar:0 "Whisky Cellar"
+ building_whisky_cellar_lens_option:0 "Build $building_whisky_cellar$"
+##
+ bg_whisky_cellar:0 "Whisky Cellar"
+##pm##
+ pmg_base_building_whisky_cellar:0 "Brewing method"
+ default_building_whisky_cellar:0 "Base Brewing"
+ glass_bottle_building_whisky_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_whisky_cellar:0 "Train automation"
+ pmg_ownership_land_building_whisky_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_whisky_add:0 "@whisky!Whisky output Per Level"
+ modifier_building_output_whisky_add_desc:0 "The amount of@whisky! Whisky produced by buildings"
+###########
+ vodka:0 "Vodka"
+ vodka_desc:0 "Vodka is a kind of alcohol"
+ building_vodka_cellar:0 "Vodka Cellar"
+ building_vodka_cellar_lens_option:0 "Build $building_vodka_cellar$"
+##
+ bg_vodka_cellar:0 "Vodka Cellar"
+##pm##
+ pmg_base_building_vodka_cellar:0 "Brewing method"
+ default_building_vodka_cellar:0 "Base Brewing"
+ glass_bottle_building_vodka_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_vodka_cellar:0 "Train automation"
+ pmg_ownership_land_building_vodka_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_vodka_add:0 "@vodka!Vodka output Per Level"
+ modifier_building_output_vodka_add_desc:0 "The amount of@vodka! Vodka produced by buildings"
+###########
+ rum:0 "Rum"
+ rum_desc:0 "Rum is a kind of Rum"
+ building_rum_cellar:0 "Rum Cellar"
+ building_rum_cellar_lens_option:0 "Build $building_rum_cellar$"
+##
+ bg_rum_cellar:0 "Rum Cellar"
+##pm##
+ pmg_base_building_rum_cellar:0 "Brewing method"
+ default_building_rum_cellar:0 "Base Brewing"
+ glass_bottle_building_rum_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_rum_cellar:0 "Train automation"
+ pmg_ownership_land_building_rum_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_rum_add:0 "@rum!Rum output Per Level"
+ modifier_building_output_rum_add_desc:0 "The amount of@rum! Rum produced by buildings"
+###########
+ rice_wine:0 "Rice wine"
+ rice_wine_desc:0 "Rice wine is a kind of Rice wine"
+ building_rice_wine_cellar:0 "Rice wine Cellar"
+ building_rice_wine_cellar_lens_option:0 "Build $building_rice_wine_cellar$"
+##
+ bg_rice_wine_cellar:0 "Rice wine Cellar"
+##pm##
+ pmg_base_building_rice_wine_cellar:0 "Brewing method"
+ default_building_rice_wine_cellar:0 "Base Brewing"
+ glass_bottle_building_rice_wine_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_rice_wine_cellar:0 "Train automation"
+ pmg_ownership_land_building_rice_wine_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_rice_wine_add:0 "@rice_wine!Rice wine output Per Level"
+ modifier_building_output_rice_wine_add_desc:0 "The amount of @rice_wine! Rice wine produced by buildings"
+###########
+ geneva:0 "Geneva"
+ geneva_desc:0 "Geneva is a kind of Geneva"
+ building_geneva_cellar:0 "Geneva Cellar"
+ building_geneva_cellar_lens_option:0 "Build $building_geneva_cellar$"
+##
+ bg_geneva_cellar:0 "Geneva Cellar"
+##pm##
+ pmg_base_building_geneva_cellar:0 "Brewing method"
+ default_building_geneva_cellar:0 "Base Brewing"
+ glass_bottle_building_geneva_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_geneva_cellar:0 "Train automation"
+ pmg_ownership_land_building_geneva_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_geneva_add:0 "@geneva!Geneva output Per Level"
+ modifier_building_output_geneva_add_desc:0 "The amount of @geneva! Geneva produced by buildings"
+###########
+ tequila:0 "Tequila"
+ tequila_desc:0 "Tequila is a kind of Tequila"
+ building_tequila_cellar:0 "Tequila Cellar"
+ building_tequila_cellar_lens_option:0 "Build $building_tequila_cellar$"
+##
+ bg_tequila_cellar:0 "Tequila Cellar"
+##pm##
+ pmg_base_building_tequila_cellar:0 "Brewing method"
+ default_building_tequila_cellar:0 "Base Brewing"
+ glass_bottle_building_tequila_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_tequila_cellar:0 "Train automation"
+ pmg_ownership_land_building_tequila_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_tequila_add:0 "@tequila!Tequila output Per Level"
+ modifier_building_output_tequila_add_desc:0 "The amount of@tequila! Tequila produced by buildings"
+###########
+ fruit_wine:0 "Fruit wine"
+ fruit_wine_desc:0 "Fruit wine is a kind of Fruit wine"
+ building_fruit_wine_cellar:0 "Fruit wine Cellar"
+ building_fruit_wine_cellar_lens_option:0 "Build $building_fruit_wine_cellar$"
+##
+ bg_fruit_wine_cellar:0 "Fruit wine Cellar"
+##pm##
+ pmg_base_building_fruit_wine_cellar:0 "Brewing method"
+ default_building_fruit_wine_cellar:0 "Base Brewing"
+ glass_bottle_building_fruit_wine_cellar:0 "Glass bottle filling"
+ pmg_train_automation_building_fruit_wine_cellar:0 "Train automation"
+ pmg_ownership_land_building_fruit_wine_cellar:0 "Ownership"
+##modified##
+ modifier_building_output_fruit_wine_add:0 "@fruit_wine!Fruit wine output Per Level"
+ modifier_building_output_fruit_wine_add_desc:0 "The amount of@fruit_wine! Fruit wine produced by buildings"
