@@ -105,3 +105,29 @@
  glass_bottle_building_rice_wine_cellar:0 "玻璃瓶罐装"
  pmg_train_automation_building_rice_wine_cellar:0 "列车自动化"
  pmg_ownership_land_building_rice_wine_cellar:0 "所有制"
+###########
+ geneva:0 "杜松子酒"
+ geneva_desc:0 "杜松子酒是一种杜松子酒"
+ building_geneva_cellar:0 "杜松子酒窖"
+ building_geneva_cellar_lens_option:0 "扩建$building_geneva_cellar$"
+##
+ bg_geneva_cellar:0 "杜松子酒窖"
+##pm##
+ pmg_base_building_geneva_cellar:0 "酿造"
+ default_building_geneva_cellar:0 "基础酿造"
+ glass_bottle_building_geneva_cellar:0 "玻璃瓶罐装"
+ pmg_train_automation_building_geneva_cellar:0 "列车自动化"
+ pmg_ownership_land_building_geneva_cellar:0 "所有制"
+###########
+ tequila:0 "龙舌兰酒"
+ tequila_desc:0 "龙舌兰是一种杜松子酒"
+ building_tequila_cellar:0 "龙舌兰酒窖"
+ building_tequila_cellar_lens_option:0 "扩建$building_tequila_cellar$"
+##
+ bg_tequila_cellar:0 "龙舌兰酒窖"
+##pm##
+ pmg_base_building_tequila_cellar:0 "酿造"
+ default_building_tequila_cellar:0 "基础酿造"
+ glass_bottle_building_tequila_cellar:0 "玻璃瓶罐装"
+ pmg_train_automation_building_tequila_cellar:0 "列车自动化"
+ pmg_ownership_land_building_tequila_cellar:0 "所有制"

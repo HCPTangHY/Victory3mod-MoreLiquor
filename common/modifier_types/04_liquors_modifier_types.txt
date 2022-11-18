@@ -30,3 +30,11 @@ building_output_rice_wine_add = {
 	good = no
 	percent = no	
 }
+building_output_geneva_add = {
+	good = no
+	percent = no	
+}
+building_output_tequila_add = {
+	good = no
+	percent = no	
+}

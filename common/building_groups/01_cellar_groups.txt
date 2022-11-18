@@ -47,3 +47,17 @@ bg_rice_wine_cellar = {
 	
 	cash_reserves_max = 25000
 }
+bg_geneva_cellar = {
+	parent_group = bg_agriculture
+	
+	default_building = building_geneva_cellar
+	
+	cash_reserves_max = 25000
+}
+bg_tequila_cellar = {
+	parent_group = bg_agriculture
+	
+	default_building = building_tequila_cellar
+	
+	cash_reserves_max = 25000
+}
