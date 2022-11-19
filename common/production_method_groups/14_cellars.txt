@@ -49,13 +49,7 @@ pmg_ownership_land_building_sake_cellar = {
 pmg_base_building_beer_cellar = {
 	production_methods = {
 		default_building_beer_cellar
-		black_beer_building_beer_cellar
-	}
-}
-pmg_bottle_building_beer_cellar = {
-	production_methods = {
-		pm_bucket_beer
-		pm_glass_bottle_beer
+		glass_bottle_building_beer_cellar
 	}
 }
 pmg_train_automation_building_beer_cellar = {
