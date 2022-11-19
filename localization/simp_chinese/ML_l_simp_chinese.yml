@@ -39,11 +39,8 @@
  bg_beer_cellar:0 "啤酒酒窖"
 ##pm##
  pmg_base_building_beer_cellar:0 "酿造"
- default_building_beer_cellar:0 "鲜啤酒"
- black_beer_building_beer_cellar:0 "黑啤"
- pmg_bottle_building_beer_cellar:0 "灌装"
- pm_bucket_beer:0 "桶装啤酒"
- pm_glass_bottle_beer:0 "瓶装啤酒"
+ default_building_beer_cellar:0 "基础酿造"
+ glass_bottle_building_beer_cellar:0 "玻璃瓶罐装"
  pmg_train_automation_building_beer_cellar:0 "列车自动化"
  pmg_ownership_land_building_beer_cellar:0 "所有制"
 ##modified##
